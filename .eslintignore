@@ -1,0 +1,5 @@
+build/
+tests/
+/tmp/
+test.js
+!.eslintrc.js
