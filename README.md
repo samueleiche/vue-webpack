@@ -11,7 +11,7 @@ $ npm i
 
 #### Development
 ```bash
-$ npm run watch
+$ npm run dev
 ```
 
 #### Production build
