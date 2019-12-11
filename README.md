@@ -19,7 +19,7 @@ $ npm run dev
 $ npm run build
 ```
 
-files are build in `public/build`.
+Files are build in `public/build`.
 
 #### Project structure example for WordPress
 
