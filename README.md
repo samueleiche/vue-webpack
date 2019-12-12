@@ -50,11 +50,17 @@ Files are build in `public/build`.
             │   └── ...
             ├── layouts/
             │   ├── Home.js
-            │   ├── Auth/
+            │   ├── Auth/                   # Domain specific routing example
             │   │   ├── index.js
             │   │   ├── routes.js
             │   │   ├── Login.vue
             │   │   ├── Register.vue
+            │   │   └── ...
+            │   ├── Product/                # Grouped layouts with scoped components
+            │   │   ├── components/
+            │   │   │   └── ...
+            │   │   ├── ProductServices.js
+            │   │   ├── ProductPricing.js
             │   │   └── ...
             │   └── ...
             ├── plugins/
