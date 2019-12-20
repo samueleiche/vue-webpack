@@ -1,4 +1,4 @@
-## Vue.js Webpack boilerplate
+## Vue.js Webpack template
 
 Useful for WordPress or any custom site when a full SPA is not feasable.
 
